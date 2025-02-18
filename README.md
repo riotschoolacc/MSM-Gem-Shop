@@ -45,7 +45,7 @@ Redeemable Codes
 ------
 In the home section of the MSM Gem Shop, you are able to input codes to get free gems! (You need your MSM Friend Code & Platform to be set first)
 
-**Redeemable codes are commonly given out to youtubers and telegram channels to advertise and get them to purchase from the shop, if you want a code, please read [this](#become-a-partner-and-get-a-code), and then contact us.**
+**Redeemable codes are commonly given out to youtubers and telegram channels to advertise and persuade their members to purchase from the shop, if you want a code, please read [this](#become-a-partner-and-get-a-code), and then contact us.**
 
 *Psst: use code **RELEASE** for 10 free gems!*
 
@@ -71,7 +71,7 @@ Please make sure your ID and Platform is correct next time!
 Have a youtube channel and want to get a code?
 ------
 
-**Redeemable codes are commonly given out to youtubers and telegram channels to advertise and get them to purchase from the shop, if you are interested in gaining your own code, please read these Requirements:**
+**Redeemable codes are commonly given out to youtubers and telegram channels to advertise and persuade their members to purchase from the shop, if you are interested in gaining your own code, please read these Requirements:**
 
 For Telegram Channels:
 
