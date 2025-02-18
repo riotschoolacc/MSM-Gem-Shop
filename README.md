@@ -20,4 +20,12 @@ Then follow these steps:
 8. Wait a few minutes for your gems to be sent to your account
 9. You can view the tracking of your order (how many gems you've recieved so far) and your previous orders
 
-### Now, after all of that, you should have your gems!
+##### Now, after all of that, you should have your gems!
+
+Redeemable Codes
+------
+In the home section of the MSM Gem Shop, you are able to input codes to get free gems! (You need your MSM Friend Code & Platform to be set first)
+
+**Redeemable codes are commonly given out to youtubers to give to fans and get them to purchase from the shop, if you're a youtuber and want a code, contact me**
+
+*Psst: use code **RELEASE** for 10 free gems!*
