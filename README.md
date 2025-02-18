@@ -64,6 +64,8 @@ If you set your id to something like "Fart Id2342" and forgot to change it befor
 
 Please make sure your ID and Platform is correct next time!
 
+------
+
 * If you've double checked that your information is correct and hasn't been altered since then, please contact us with a picture of your order from your order list. 
 
 Have a youtube channel and want to get a code?
@@ -78,6 +80,8 @@ For Telegram Channels:
 **2. A chat that's active**
 
 **3. Must be an MSM Channel**
+
+-----
 
 For Youtube Channels:
 
