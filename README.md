@@ -57,9 +57,9 @@ If you misspelled your id for example, lets say your id is 1112LE, but you missp
 
 Please make sure your ID and Platform is correct next time!
 
-* If you've double checked that your information is correct and hasn't been altered since then, please contact us with a picture of your  order from your order list. 
+* If you've double checked that your information is correct and hasn't been altered since then, please contact us with a picture of your order from your order list. 
 
-Become a partner and get a code
+Have a youtube channel and want to get a code?
 ------
 
 **Redeemable codes are commonly given out to youtubers and telegram channels to advertise and get them to purchase from the shop, if you are interested in gaining your own code, please read these Requirements:**
@@ -75,4 +75,4 @@ For Youtube Channels:
 3. Must be an MSM Channel**
 
 > [!CAUTION]
-> # If you're found botting your channel, you WILL have your code revoked and deleted and be BANNED from using the bot.
+> If you're found botting your channel, you **WILL** have your code **REVOKED**, **DELETED** and be **BANNED** from using the bot.
