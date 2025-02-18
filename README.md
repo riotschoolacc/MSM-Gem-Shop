@@ -51,9 +51,9 @@ If you've ordered a product but haven't recieved it yet, please first:
 
 We aren't able to refund you, but we can give you your gems on a new Friend Code in certain conditions:
 
-If you misspelled your id for example, lets say your id is 1112LE, but you misspell it as 2221EL, we cannot pay you with the new "fixed" id for security reasons.
+If you set your id to something like "Fart Id2342" and forgot to change it before purchasing, we **can** give you the gems with a new fixed id for that.
 
-**However,** if you set your id to something like "Fart Id2342" and forgot to change it before purchasing, we **can** give you the gems with a new fixed id for that.
+**However,** if you misspelled your id for example, lets say your id is 1112LE, but you misspell it as 2221EL, we cannot pay you with the new "fixed" id for security reasons.
 
 Please make sure your ID and Platform is correct next time!
 
