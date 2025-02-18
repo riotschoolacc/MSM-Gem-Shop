@@ -9,7 +9,7 @@ Links:
 
 [My order wasn't sent! Give me a refund!](#my-order-wasnt-sent-i-want-a-refund)
 
-------
+###### Legal
 
 [License](https://github.com/riotschoolacc/MSM-Gem-Shop/blob/main/LICENSE)
 
