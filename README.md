@@ -29,3 +29,17 @@ In the home section of the MSM Gem Shop, you are able to input codes to get free
 **Redeemable codes are commonly given out to youtubers to give to fans and get them to purchase from the shop, if you're a youtuber and want a code, contact me**
 
 *Psst: use code **RELEASE** for 10 free gems!*
+
+My order wasn't sent! I want a refund!
+------
+If you've ordered a product but haven't recieved it yet, please first:
+1. **Check if your set MSM Friend Code is correct**
+2. **Check if your set Platform is correct**
+
+We aren't able to refund you, but we can give you your gems on a new Friend Code in certain conditions:
+
+If you misspelled your id for example, lets say your id is 1112LE, but you misspell it as 2221EL, we cannot pay you with the new "fixed" id for security reasons.
+
+**However,** if you set your id to something like "Fart Id2342" and forgot to change it before purchasing, we **can** give you the gems with a new fixed id for that.
+
+Please make sure your ID and Platform is correct next time!
