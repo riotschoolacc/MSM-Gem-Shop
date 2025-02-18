@@ -1,5 +1,5 @@
 # MSM Gem Shop
-MSM (My Singing Monsters) Gem Shop is a new and intuitive bot that allows you to purchase Gems at a 90% discount, including preloaded accounts with gems.
+MSM (My Singing Monsters) Gem Shop is a new and intuitive Telegram Bot that allows you to purchase Gems at a 90% discount, including preloaded accounts with gems.
 
 Links:
 
@@ -16,7 +16,7 @@ Links:
 How to use
 ------
 First thing you will need to do is to:
-1. go to the bot
+1. go to the Bot
 2. go to profile and put your MSM Friend Code and Platform, (which is required so we can send you your gems correctly.)
 
 Then follow these steps:
