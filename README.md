@@ -74,4 +74,5 @@ For Youtube Channels:
 2. A community that interacts with your channel, ex: commenting
 3. Must be an MSM Channel**
 
-# WARNING: If you're found botting your channel, you WILL have your code revoked and deleted and be BANNED from using the bot.
+> [!CAUTION]
+> # If you're found botting your channel, you WILL have your code revoked and deleted and be BANNED from using the bot.
