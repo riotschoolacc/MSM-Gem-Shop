@@ -16,12 +16,10 @@ Links:
 How to use
 ------
 First thing you will need to do is to:
-
 1. go to the bot
 2. go to profile and put your MSM Friend Code and Platform, (which is required so we can send you your gems correctly.)
 
 Then follow these steps:
-
 1. Click shop
 3. Click the product type you want to purchase
 4. Pick an amount of gems
@@ -41,7 +39,18 @@ Redeemable Codes
 ------
 In the home section of the MSM Gem Shop, you are able to input codes to get free gems! (You need your MSM Friend Code & Platform to be set first)
 
-**Redeemable codes are commonly given out to youtubers to give to fans and get them to purchase from the shop, if you're a youtuber and want a code, contact me**
+**Redeemable codes are commonly given out to youtubers and telegram channels to advertise and get them to purchase from the shop, if you want a code, please contact us. Requirements:
+For Telegram Channels:
+1. Atleast 1 Thousand members
+2. A chat that's active
+3. Must be an MSM Channel
+
+For Youtube Channels:
+1. Atleast 10 Thousand subscribers
+2. A community that interacts with your channel, ex: commenting
+3. Must be an MSM Channel**
+
+# WARNING: If you're found botting your channel, you WILL have your code revoked and deleted and be BANNED from using the bot.
 
 *Psst: use code **RELEASE** for 10 free gems!*
 
@@ -58,3 +67,5 @@ If you misspelled your id for example, lets say your id is 1112LE, but you missp
 **However,** if you set your id to something like "Fart Id2342" and forgot to change it before purchasing, we **can** give you the gems with a new fixed id for that.
 
 Please make sure your ID and Platform is correct next time!
+
+* If you've double checked that your information is correct and hasn't been altered since then, please contact us with a picture of your  order from your order list. 
