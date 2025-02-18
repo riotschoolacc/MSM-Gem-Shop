@@ -15,6 +15,7 @@ Links:
 
 #### Products
 [Gems](#gem-packages)
+
 [Preloaded accounts](#preloaded-accounts)
 
 #### Legal
@@ -27,6 +28,9 @@ First thing you will need to do is to:
 1. go to the Bot
 2. go to profile and put your MSM Friend Code and Platform, (which is required so we can send you your gems correctly.)
 
+> [!WARNING]
+> Double check your MSM Friend Code and Platform before saving!
+
 Then follow these steps:
 1. Click shop
 
@@ -37,9 +41,6 @@ Then follow these steps:
 6. Start the purchase
    
 7. Make sure to confirm your MSM Friend Code & Platform is correct!! You ***cannot*** get a refund in any case but for [certain cases](#my-order-wasnt-sent-i-want-a-refund), you can change your Friend Code to the correct one.
-   
-> [!WARNING]
-> Double check your MSM Friend Code and Platform before saving!
 
 8. Pay your invoice
 
@@ -114,3 +115,20 @@ For Youtube Channels:
 
 > [!CAUTION]
 > If you're found botting your channel, you **WILL** have your code **REVOKED**, **DELETED** and be **BANNED** from using the bot.
+
+FAQ
+------
+Q: Isn't this just ZewDonate but cheaper?
+   * A: I'll say that I was inspired by ZewDonate a bit but not fully, and it being cheaper plays a huge part, 1000 gems in **our** shop is 3$ USD, and ZewDonate is 30$.
+
+Q: Will I get my MSM account banned for this?
+   * A: Nope! According to the servers and player data, BBB does not track any referral codes.
+
+Q: Why is everything so cheap?
+   * A: I want to provide a safe way to get thousands of gems easily and fast while also being quite cheap.
+
+Q: Это я zewsic, ты украл исходный код zewdonate, ты тупой 12-летний британский школьник!!11!1!!1!!1!
+   * A: нет
+
+Q: How long does it usually take for my gems to appear in my account?
+   * A: Usually around 2-5 minutes, may take longer depending on how many people are trying to use the bot, how many gems you are purchasing, and how many people are trying to play My Singing Monsters.
