@@ -21,17 +21,23 @@ First thing you will need to do is to:
 
 Then follow these steps:
 1. Click shop
+
 3. Click the product type you want to purchase
-4. Pick an amount of gems
-5. Start the purchase
-6. Make sure to confirm your MSM Friend Code & Platform is correct!! You ***cannot*** get a refund in any case but for [certain cases](#my-order-wasnt-sent-i-want-a-refund), you can change your Friend Code to the correct one.
+   
+5. Pick an amount of gems
+   
+6. Start the purchase
+   
+7. Make sure to confirm your MSM Friend Code & Platform is correct!! You ***cannot*** get a refund in any case but for [certain cases](#my-order-wasnt-sent-i-want-a-refund), you can change your Friend Code to the correct one.
    
 > [!WARNING]
 > Double check your MSM Friend Code and Platform before saving!
 
 8. Pay your invoice
-9. Wait a few minutes for your gems to be sent to your account
-10. You can view the tracking of your order (how many gems you've recieved so far) and your previous orders
+
+10. Wait a few minutes for your gems to be sent to your account
+   
+12. You can view the tracking of your order (how many gems you've recieved so far) and your previous orders
 
 #### Now, after all of that, you should have your gems!
 
@@ -47,7 +53,8 @@ My order wasn't sent! I want a refund!
 ------
 If you've ordered a product but haven't recieved it yet, please first:
 1. **Check if your set MSM Friend Code is correct**
-2. **Check if your set Platform is correct**
+   
+3. **Check if your set Platform is correct**
 
 We aren't able to refund you, but we can give you your gems on a new Friend Code in certain conditions:
 
@@ -65,14 +72,20 @@ Have a youtube channel and want to get a code?
 **Redeemable codes are commonly given out to youtubers and telegram channels to advertise and get them to purchase from the shop, if you are interested in gaining your own code, please read these Requirements:**
 
 For Telegram Channels:
-**1. Atleast 1 Thousand members
-2. A chat that's active
-3. Must be an MSM Channel**
+
+**1. Atleast 1 Thousand members**
+
+**2. A chat that's active**
+
+**3. Must be an MSM Channel**
 
 For Youtube Channels:
-**1. Atleast 10 Thousand subscribers
-2. A community that interacts with your channel, ex: commenting
-3. Must be an MSM Channel**
+
+**1. Atleast 10 Thousand subscribers**
+
+**2. A community that interacts with your channel, ex: commenting**
+
+**3. Must be an MSM Channel**
 
 > [!CAUTION]
 > If you're found botting your channel, you **WILL** have your code **REVOKED**, **DELETED** and be **BANNED** from using the bot.
