@@ -27,10 +27,13 @@ Then follow these steps:
 4. Pick an amount of gems
 5. Start the purchase
 6. Make sure to confirm your MSM Friend Code & Platform is correct!! You ***cannot*** get a refund in any case but for [certain cases](#my-order-wasnt-sent-i-want-a-refund), you can change your Friend Code to the correct one.
+   
+> [!WARNING]
+> Double check your MSM Friend Code and Platform before saving!
 
-7. Pay your invoice
-8. Wait a few minutes for your gems to be sent to your account
-9. You can view the tracking of your order (how many gems you've recieved so far) and your previous orders
+8. Pay your invoice
+9. Wait a few minutes for your gems to be sent to your account
+10. You can view the tracking of your order (how many gems you've recieved so far) and your previous orders
 
 ##### Now, after all of that, you should have your gems!
 
