@@ -7,9 +7,15 @@ Links:
 
 [Redeemable Codes](#redeemable-codes)
 
+[How it works](#how-it-works)
+
 [My order wasn't sent! Give me a refund!](#my-order-wasnt-sent-i-want-a-refund)
 
 [Have a youtube channel and want to make a redeemable code?](#have-a-youtube-channel-and-want-to-get-a-code)
+
+#### Products
+[Gems](#gem-packages)
+[Preloaded accounts](#preloaded-accounts)
 
 #### Legal
 
@@ -42,6 +48,19 @@ Then follow these steps:
 12. You can view the tracking of your order (how many gems you've recieved so far) and your previous orders
 
 #### Now, after all of that, you should have your gems!
+
+How it works
+------
+MSM Gem Shop uses a new technology to anonymously send you thousands of gems easily and fast at a small price using Referral Codes
+
+Key Points:
+* Easy to use, just set your Friend Code and Platform
+
+* Easy order tracking and ability to view previous orders
+
+* Completely anonymous, MSM doesn't track Referral Codes
+
+* Get thousands of gems for cheap and quickly
 
 Redeemable Codes
 ------
