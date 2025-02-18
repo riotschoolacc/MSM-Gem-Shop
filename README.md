@@ -132,3 +132,6 @@ Q: Это я zewsic, ты украл исходный код zewdonate, ты т�
 
 Q: How long does it usually take for my gems to appear in my account?
    * A: Usually around 2-5 minutes, may take longer depending on how many people are trying to use the bot, how many gems you are purchasing, and how many people are trying to play My Singing Monsters.
+
+Q: Why can I only use codes once?!?
+   * A: I mean, usually you arent allowed to use a Coupon more than once, right?
