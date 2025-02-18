@@ -1,6 +1,13 @@
 # MSM Gem Shop
 MSM (My Singing Monsters) Gem Shop is a new and intuitive bot that allows you to purchase Gems at a 90% discount, including preloaded accounts with gems.
 
+Links:
+[How to use](#how-to-use)
+[Redeemable Codes](#redeemable-codes)
+[My order wasn't sent! Give me a refund!](#my-order-wasnt-sent-i-want-a-refund)
+
+[License](https://github.com/riotschoolacc/MSM-Gem-Shop/blob/main/LICENSE)
+
 How to use
 ------
 First thing you will need to do is to:
@@ -14,7 +21,7 @@ Then follow these steps:
 3. Click the product type you want to purchase
 4. Pick an amount of gems
 5. Start the purchase
-6. Make sure to confirm your MSM Friend Code & Platform is correct!! You ***cannot*** get a refund if you put in incorrect information, except for [certain cases](#my-order-wasnt-sent-i-want-a-refund)
+6. Make sure to confirm your MSM Friend Code & Platform is correct!! You ***cannot*** get a refund in any case but for [certain cases](#my-order-wasnt-sent-i-want-a-refund), you can change your Friend Code to the correct one.
 
 7. Pay your invoice
 8. Wait a few minutes for your gems to be sent to your account
