@@ -135,3 +135,14 @@ Q: How long does it usually take for my gems to appear in my account?
 
 Q: Why can I only use codes once?!?
    * A: I mean, usually you arent allowed to use a Coupon more than once, right?
+
+Gem Packages
+------
+
+In our shop you can buy a wide range of gem packages, some including **1000**, **5000**, etc for Telegram Stars (converted from its USD pricings)
+
+You can also select a custom amount if you want less/more than the options we provide. It'll calculate how many Telegram Stars you will need to pay automatically.
+
+Preloaded Accounts
+------
+In our shop you are able to buy new accounts that come with gems automatically, and being a bit cheaper than just buying gem packages!
