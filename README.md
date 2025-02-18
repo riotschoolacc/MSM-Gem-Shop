@@ -9,7 +9,7 @@ Links:
 
 [My order wasn't sent! Give me a refund!](#my-order-wasnt-sent-i-want-a-refund)
 
-###### Legal
+#### Legal
 
 [License](https://github.com/riotschoolacc/MSM-Gem-Shop/blob/main/LICENSE)
 
@@ -35,7 +35,7 @@ Then follow these steps:
 9. Wait a few minutes for your gems to be sent to your account
 10. You can view the tracking of your order (how many gems you've recieved so far) and your previous orders
 
-##### Now, after all of that, you should have your gems!
+#### Now, after all of that, you should have your gems!
 
 Redeemable Codes
 ------
