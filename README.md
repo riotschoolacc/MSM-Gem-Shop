@@ -14,7 +14,7 @@ Then follow these steps:
 3. Click the product type you want to purchase
 4. Pick an amount of gems
 5. Start the purchase
-6. Make sure to confirm your MSM Friend Code & Platform is correct!! You ***cannot*** get a refund if you put in incorrect information
+6. Make sure to confirm your MSM Friend Code & Platform is correct!! You ***cannot*** get a refund if you put in incorrect information, except for [certain cases](#my-order-wasnt-sent-i-want-a-refund)
 
 7. Pay your invoice
 8. Wait a few minutes for your gems to be sent to your account
