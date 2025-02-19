@@ -11,7 +11,7 @@ Links:
 
 [My order wasn't sent! Give me a refund!](#my-order-wasnt-sent-i-want-a-refund)
 
-[Have a youtube channel and want to make a redeemable code?](#have-a-youtube-channel-and-want-to-get-a-code)
+[Have a YouTube channel and want to make a redeemable code?](#have-a-youtube-channel-and-want-to-get-a-code)
 
 #### Products
 [Gems](#gem-packages)
@@ -46,7 +46,7 @@ Then follow these steps:
 
 10. Wait a few minutes for your gems to be sent to your account
    
-12. You can view the tracking of your order (how many gems you've recieved so far) and your previous orders
+12. You can view the tracking of your order (how many gems you've received so far) and your previous orders
 
 #### Now, after all of that, you should have your gems!
 
@@ -57,7 +57,7 @@ MSM Gem Shop uses a new technology to anonymously send you thousands of gems eas
 Key Points:
 * Easy to use, just set your Friend Code and Platform
 
-* Easy order tracking and ability to view previous orders
+* Easy order tracking and the ability to view previous orders
 
 * Completely anonymous, MSM doesn't track Referral Codes
 
@@ -65,39 +65,39 @@ Key Points:
 
 Redeemable Codes
 ------
-In the home section of the MSM Gem Shop, you are able to input codes to get free gems! (You need your MSM Friend Code & Platform to be set first)
+In the home section of the MSM Gem Shop, you can input codes to get free gems! (You need your MSM Friend Code & Platform to be set first)
 
-**Redeemable codes are commonly given out to youtubers and telegram channels to advertise and persuade their members to purchase from the shop, if you want a code, please read [this](#become-a-partner-and-get-a-code), and then contact us.**
+**Redeemable codes are commonly given out to YouTubers and telegram channels to advertise and persuade their members to purchase from the shop, if you want a code, please read [this](#become-a-partner-and-get-a-code), and then contact us.**
 
 *Psst: use code **RELEASE** for 10 free gems!*
 
 My order wasn't sent! I want a refund!
 ------
-If you've ordered a product but haven't recieved it yet, please first:
+If you've ordered a product but haven't received it yet, please first:
 1. **Check if your set MSM Friend Code is correct**
    
 3. **Check if your set Platform is correct**
 
-We aren't able to refund you, but we can give you your gems on a new Friend Code in certain conditions:
+We aren't able to refund you, but we can give you your gems on a new Friend Code on certain conditions:
 
 If you set your id to something like "Fart Id2342" and forgot to change it before purchasing, we **can** give you the gems with a new fixed id for that.
 
-**However,** if you misspelled your id for example, lets say your id is 1112LE, but you misspell it as 2221EL, we cannot pay you with the new "fixed" id for security reasons.
+**However,** if you misspelled your ID for example, lets say your ID is 1112LE, but you misspell it as 2221EL, we cannot pay you with the new "fixed" ID for security reasons.
 
 Please make sure your ID and Platform is correct next time!
 
 ------
 
-* If you've double checked that your information is correct and hasn't been altered since then, please contact us with a picture of your order from your order list. 
+* If you've double-checked that your information is correct and hasn't been altered since then, please contact us with a picture of your order from your order list. 
 
-Have a youtube channel and want to get a code?
+Have a YouTube channel and want to get a code?
 ------
 
-**Redeemable codes are commonly given out to youtubers and telegram channels to advertise and persuade their members to purchase from the shop, if you are interested in gaining your own code, please read these Requirements:**
+**Redeemable codes are commonly given out to YouTubers and telegram channels to advertise and persuade their members to purchase from the shop, if you are interested in gaining your code, please read these Requirements:**
 
 For Telegram Channels:
 
-**1. Atleast 1 Thousand members**
+**1. At least 1 Thousand members**
 
 **2. A chat that's active**
 
@@ -107,7 +107,7 @@ For Telegram Channels:
 
 For Youtube Channels:
 
-**1. Atleast 10 Thousand subscribers**
+**1. At least 10 Thousand subscribers**
 
 **2. A community that interacts with your channel, ex: commenting**
 
@@ -134,15 +134,15 @@ Q: How long does it usually take for my gems to appear in my account?
    * A: Usually around 2-5 minutes, may take longer depending on how many people are trying to use the bot, how many gems you are purchasing, and how many people are trying to play My Singing Monsters.
 
 Q: Why can I only use codes once?!?
-   * A: I mean, usually you arent allowed to use a Coupon more than once, right?
+   * A: I mean, usually you aren't allowed to use a Coupon more than once, right?
 
 Gem Packages
 ------
 
-In our shop you can buy a wide range of gem packages, some including **1000**, **5000**, etc for Telegram Stars (converted from its USD pricings)
+In our shop, you can buy a wide range of gem packages, some including **1000**, **5000**, etc for Telegram Stars (converted from its USD prices)
 
 You can also select a custom amount if you want less/more than the options we provide. It'll calculate how many Telegram Stars you will need to pay automatically.
 
 Preloaded Accounts
 ------
-In our shop you are able to buy new accounts that come with gems automatically, and being a bit cheaper than just buying gem packages!
+In our shop, you can buy new accounts that come with gems automatically, and are a bit cheaper than just buying gem packages!
